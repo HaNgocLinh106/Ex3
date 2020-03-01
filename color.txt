@@ -1,8 +1,10 @@
 white
+grey
 black
-red
+red light
 green
 yellow
 brown light
 orange
 puple
+blue
