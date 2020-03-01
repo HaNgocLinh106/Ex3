@@ -1,6 +1,8 @@
 white
 black
-blue
+red
 green
-pink
-brown
+yellow
+brown light
+orange
+puple
